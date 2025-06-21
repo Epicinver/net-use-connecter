@@ -1,4 +1,4 @@
-# net user /connecter 
+# net use /connecter 
 
 # Educational purposes only.
 
@@ -33,4 +33,6 @@ Only use with permission.
 You may need to turn off Windows Defender.
 Modifying code is allowed, just go to "https://github.com/EbolaMan-YT/SMB-Bruteforce" and click "Code" then "Download ZIP".
 The password list in the root of the project does not contain passwords. For a ready made example, go into "Example password list".
+I won't be providing how to get IP addressses.
+do not use this illegally. if used illegally, and you're in legal trouble, i may be involved.
 And most importantly, educational purposes only :-)
