@@ -1,3 +1,5 @@
+# net user /connecter 
+
 # Educational purposes only.
 
 This is a simple batch file that will connect to PCs using net use.
